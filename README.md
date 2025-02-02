@@ -56,7 +56,7 @@
 - Participated in the **entire development lifecycle**, contributing to **new feature development and ongoing improvements**.  
 
 ### **Trainee Mobile Software Engineer**  
-📍 DevX Technologies Private Limited (06/2020 – 01/2021)  
+📍 DevX Technologies Private Limited (06/2021 – 12/2021)  
 - Developed **mobile applications** using the **Flutter framework**, focusing on **basic authentication** and **WebView integration**.  
 - Implemented **API consumption** in mobile apps, including **real-time location tracking** and data retrieval.  
 - Utilized **Firebase** for **secure authentication** and **database management**.  
